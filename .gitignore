@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment files
+.env
+.env.*.local
+
+# Parcel-bundler cache
+.cache/
+
+# build directories
+dist/
+build/
+
+# VS Code
+.vscode/
+
+
+# Linux trash
+.Trash-*
+
+# Optional yarn cache directory
+.yarn/
+.pnp.*
