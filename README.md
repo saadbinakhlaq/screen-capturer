@@ -24,8 +24,8 @@ A cross-platform Electron application for capturing screenshots at regular inter
 
 1. **Clone the repository** or download the source code
    ```bash
-   git clone https://github.com/your-repo/screenshot-capture-app.git
-   cd screenshot-capture-app
+   git clone https://github.com/your-repo/screen-capturer.git
+   cd screen-capturer
    ```
 
 2. **Install dependencies**
